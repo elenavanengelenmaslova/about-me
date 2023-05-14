@@ -5,4 +5,4 @@
 layout: page
 ---
 
-![profile](/assets/profile.jpeg)
+![profile](/Public/profile.jpeg)
