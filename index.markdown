@@ -5,4 +5,4 @@
 layout: page
 ---
 
-<img src="/assets/profile.jpeg" class="max-h-110px"/>
+![profile](/assets/profile.jpeg)
