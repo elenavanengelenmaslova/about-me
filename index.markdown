@@ -5,4 +5,4 @@
 layout: page
 ---
 
-<img src="/about-me/assets/profile.jpeg" class="max-h-110px"/>
+<img src="/about-me/assets/profile.jpeg" class="max-height:110px;"/>
